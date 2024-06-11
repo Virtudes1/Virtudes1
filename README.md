@@ -1,6 +1,10 @@
 <h1 align="center">Hola! 👋, soy Virtudes</h1>
 <h3 align="center">Graduada en matemática computacional</h3>
 
+- 🌱 Actualmente estoy aprendiendo **Procesamiento y visualización de datos con MATLAB**
+
+- 👨‍💻 Puedes ver algunos de mis proyectos en [portfoliolink](portfoliolink)
+
 - 📫 Me puedes escribir a **virtudesmellado@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/virtudes-mellado-garcía-aa79a1195](www.linkedin.com/in/virtudes-mellado-garcía-aa79a1195)
